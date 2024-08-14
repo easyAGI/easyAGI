@@ -1,11 +1,10 @@
 # easyAGI
 where the components of fundamental AGI [funAGI] easy augmented generative intelligence [ezAGI] and mastermind merge to create easyAGI
 
-
+# easyAGI (c) 2024 PYTHAI
 # ezAGI (c) 2024 PYTHAI
 # funAGI (c) 2024 PYTHAI
 # mastermind (c) 2024 PYTHAI
-# easyAGI (c) 2024 PYTHAI
 # Augmented Generative Intelligence<br />
 # a framework for enhancing LLM with reasoning
 
