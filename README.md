@@ -98,11 +98,11 @@ cd easyAGI
 python3 -m venv agi
 source agi/bin/activate
 pip install -r requirements.txt
-# activate ezAGI.py with internal reasoning (EXPERIMENTAL)
-python3 ezAGI.py
+# activate easyAGI.py with internal reasoning (EXPERIMENTAL)
+python3 easyAGI.py
 ```
 
-The ezAGI project is an augmented intelligence system designed to provide human-like reasoning and decision-making as output from exiting LLM. 
+The easyAGI project is an augmented intelligence system designed to provide human-like reasoning and decision-making as output from exiting LLM<br />
 
 
 MASTERMIND
