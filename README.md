@@ -2,10 +2,10 @@
 where the components of fundamental AGI [funAGI] easy augmented generative intelligence [ezAGI] and mastermind merge to create easyAGI
 
 # easyAGI (c) 2024 PYTHAI
-# ezAGI (c) 2024 PYTHAI
-# funAGI (c) 2024 PYTHAI
-# mastermind (c) 2024 PYTHAI
-# Augmented Generative Intelligence<br />
+ezAGI (c) 2024 PYTHAI<br />
+funAGI (c) 2024 PYTHAI<br />
+mastermind (c) 2024 PYTHAI<br />
+# easy Augmented Generative Intelligence<br />
 # a framework for enhancing LLM with reasoning
 
 ```csharp
