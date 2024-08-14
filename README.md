@@ -1,7 +1,6 @@
-# easyAGI
-where the components of fundamental AGI [funAGI] easy augmented generative intelligence [ezAGI] and mastermind merge to create easyAGI
-
 # easyAGI (c) 2024 PYTHAI
+where the components of fundamental AGI [funAGI] easy augmented generative intelligence [ezAGI] and mastermind merge to create easyAGI<br />
+
 ezAGI (c) 2024 PYTHAI<br />
 funAGI (c) 2024 PYTHAI<br />
 mastermind (c) 2024 PYTHAI<br />
