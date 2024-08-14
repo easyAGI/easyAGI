@@ -168,7 +168,7 @@ Coach
 
 Integration
 
-The easyAGI project integrates all agent creation components using MASTERMIND orchestrator ensuring seamless integration with ezAGI. Here’s how it works:
+The easyAGI project integrates all agent creation components using MASTERMIND orchestrator ensuring seamless integration as a reasoning toolkit. Here’s how it works:
 
     Initialization: MASTERMIND sets up the system and builds agents using SimpleCoder
     Execution: Agents perform tasks such as writing code or making logical decisions
